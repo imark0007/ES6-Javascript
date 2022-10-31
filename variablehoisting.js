@@ -7,4 +7,4 @@
 name="Arka Talukder" // value assigned before
 console.log(name);
 
-var name; // then after declared 
+var name; // then after declared.
