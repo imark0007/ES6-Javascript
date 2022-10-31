@@ -6,4 +6,4 @@ richCountry.push(poorCountry);
 
 console.log(richCountry);
 
-// spread is better than push!!!!!
+// spread is better than push!!!!
