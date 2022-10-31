@@ -1,4 +1,4 @@
-function calculation (a,b,...numbers){
+function calculation (a,b,...numbers){  
 let sum=0;
 for(let i of numbers){
 sum=sum+i;

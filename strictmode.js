@@ -3,7 +3,7 @@ MyName ();
 
 function MyName () {
 
-     Name= "Arka";
+     Name= "Perfect";
 }
 
 //police rules for strict 
