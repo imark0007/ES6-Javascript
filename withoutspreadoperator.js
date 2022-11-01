@@ -1,4 +1,4 @@
-let poorCountry=['bangladesh','sri lanka'];
+let poorCountry = ['bangladesh','sri lanka'];
 
 let richCountry=['UK','USA'];
 
